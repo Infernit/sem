@@ -1,1 +1,1 @@
-Hello World
+![workflow](https://github.com/Infernit/sem/actions/workflows/main.yml/badge.svg)
